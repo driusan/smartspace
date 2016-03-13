@@ -9,6 +9,6 @@ an em-quad unicode codepoint. If it comes after a comma, sem
 question mark, it is replaced with an en-quad codepoint. If the space is a space character between
 words (isn't preceeded by any punctuation), it's replaced by a three-per-em space.
 
-This is roughly the average of the standards of the historical references referenced (here.)[http://heracliteanriver.com?p=324)
+This is roughly the average of the standards of the historical references referenced [here.](http://heracliteanriver.com?p=324)
 
 To see the difference, you can compare README and README.Singlespaced, and README.Doublespaced in this repository.
